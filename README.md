@@ -1,13 +1,15 @@
 # Housing Sustainability & Affordability Analytics Portfolio
 
-This portfolio brings together applied housing analytics projects focused on the intersection of affordable housing, utility burden, building performance, retrofit planning, GIS, and resident-centered decision support.
+This portfolio brings together applied housing analytics projects focused on affordable housing, utility burden, building performance, retrofit planning, GIS, and resident-centered decision support.
 
-The work demonstrates analysis at two scales:
+The goal is to show how data can help housing, real estate, sustainability, and community development organizations make better decisions about where to invest, which properties need attention, and how to improve building performance without losing sight of resident affordability.
+
+The portfolio demonstrates analysis at two connected scales:
 
 1. **Property and portfolio scale** — identifying buildings with utility-cost risk, retrofit needs, emissions exposure, waste-performance issues, and affordability pressure.
-2. **Neighborhood and policy scale** — identifying where zoning reform, location efficiency, housing age, and affordability pressure may create public benefit.
+2. **Neighborhood and policy scale** — identifying where zoning reform, location efficiency, housing age, and affordability pressure may create greater public benefit.
 
-Together, these projects show how data can support better decisions for affordable housing providers, property managers, NGOs, sustainability teams, community development organizations, and local governments.
+Together, these projects show how housing sustainability analytics can support both asset-level decisions and community-scale planning.
 
 ---
 
@@ -19,6 +21,8 @@ Together, these projects show how data can support better decisions for affordab
 **Focus:** Multifamily property performance, utility-cost risk, retrofit ROI, emissions, waste, and affordability pressure screening.
 
 This project uses a simulated multifamily housing portfolio to evaluate operating-cost risk, building performance, retrofit financial performance, and rent-plus-utility affordability pressure.
+
+The dashboard helps identify which properties may need attention first, which retrofit actions have stronger financial value, and where building-performance issues may overlap with resident affordability concerns.
 
 **Key capabilities:**
 
@@ -39,13 +43,15 @@ This project uses a simulated multifamily housing portfolio to evaluate operatin
 **Tools:** ArcGIS Pro, ACS data, Madison open data  
 **Focus:** Housing opportunity, location efficiency, zoning reform, and LEED-informed planning.
 
-This project evaluates where Madison’s Housing Forward zoning reforms may deliver the greatest public benefit by combining affordability pressure, housing age, location efficiency, and zoning eligibility.
+This project evaluates where Madison’s Housing Forward zoning reforms may deliver greater public benefit by combining affordability pressure, housing age, location efficiency, and zoning eligibility.
+
+The analysis connects housing policy, sustainable community planning, and location-based decision-making. It shows where missing-middle housing and high-performance housing concepts may be especially valuable.
 
 **Key capabilities:**
 
 - GIS-based housing opportunity mapping
 - Affordability pressure screening
-- Housing age and reinvestment need analysis
+- Housing age and reinvestment-need analysis
 - Location efficiency and transit-access analysis
 - Zoning reform and missing-middle housing evaluation
 - LEED-informed sustainable community planning
@@ -105,4 +111,4 @@ This portfolio demonstrates workflows that could support:
 
 ## Positioning Statement
 
-I build dashboards and GIS tools that help housing, real estate, and community development organizations identify where affordability pressure, utility burden, building performance, retrofit needs, and resident impact overlap.
+I build dashboards and GIS tools that help housing, real estate, sustainability, and community development organizations identify where affordability pressure, utility burden, building performance, retrofit needs, and resident impact overlap.
